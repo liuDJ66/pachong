@@ -6,5 +6,5 @@
 # 3.chuang.sql：数据据数据结构创建语句。
 # 4.finish.sql：本人爬取的数据（仅供参考）
 # 请先在支持mysql的数据库管理软件中运行chuang.sql文件创建数据结构后再运行python中的index.py文件对数据进行爬取。
-# db.python中端口及ip地址请以实际情况为准。
+# db.python中端口及ip地址请以实际情况为准.
 # 本项目运行在环境:python==3.9.0,pymysql==1.01,requests==2.31.0,mysql==8.0.1上。
